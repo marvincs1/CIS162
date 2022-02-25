@@ -3,22 +3,22 @@
 /* HTML and Body Styles */
 
 html {
-background-color: hsl(350, 33%, 32%);
+background-color: hsl(0deg, 0%, 2%);
 }
 
 body {
-color: rgb(91, 91, 91);
-background-color: ivory;
+color: rgb(255, 248, 248);
+background-color: #460f0f;
 }
 
 /* Heading Styles */
 
 header {
-background-color:black;
+background-color:green;
 }
 
 h1 {
-color:blue;
+color: white;
 }
 
 
@@ -26,7 +26,7 @@ color:blue;
 /* Section and Blockquote Styles */
 
 Section {
-background-color: darkorange;
+background-color: black;
 width: 75%;
 font-size: 1.2em;
 }
@@ -52,7 +52,7 @@ padding-left:5px;
 /* Footer Styles */
 
 footer {
-background-color: red;
+background-color: #7a7a7a;
 }
 
 
