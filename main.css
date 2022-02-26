@@ -9,6 +9,10 @@ background-color: hsl(0deg, 0%, 2%);
 body {
 color: rgb(255, 248, 248);
 background-color: #460f0f;
+margin: 0 auto;
+width: 100%;
+max-width: 1020px;
+min-width: 640px;
 }
 
 /* Heading Styles */
@@ -27,7 +31,7 @@ color: white;
 
 Section {
 background-color: black;
-width: 75%;
+width: 100%;
 font-size: 1.2em;
 }
 
