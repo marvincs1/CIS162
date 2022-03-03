@@ -62,6 +62,13 @@ section#leftColumn {
 	width: 50%;
 }
 
+section#leftColumn1 {
+	clear: left;
+	float: left;
+	background-color:blue;
+	padding: 1.2em;
+	width: 50%;
+}
 section#leftColumn img {
 	display: block;
 	width: 50%;
@@ -75,6 +82,15 @@ section#rightColumn {
 	padding: 0.3em;
 	width: 45%;
 	height: 389px;
+}
+
+section#rightColumn2 {
+	clear:right;
+	background-color:pink;
+	float: right;
+	padding: 0.3em;
+	width: 45%;
+	height: 148px;
 }
 
 /* List Styles */
