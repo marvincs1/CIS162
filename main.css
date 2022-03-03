@@ -59,7 +59,7 @@ section#leftColumn {
 	float: left;
 	background-color:blue;
 	padding: 1.2em;
-	width: 55%;
+	width: 50%;
 }
 
 section#leftColumn img {
@@ -73,8 +73,8 @@ section#rightColumn {
 	background-color:pink;
 	float: right;
 	padding: 0.3em;
-	width: 40%;
-	height: 409px;
+	width: 45%;
+	height: 389px;
 }
 
 /* List Styles */
