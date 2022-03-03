@@ -92,7 +92,8 @@ ol li {
 }
 section#leftColumn img {
 	display: block;
-	width: 50%;
+	width: 80%;
+	height: 300px;
 }
 
 /* Right Column Styles */
@@ -102,7 +103,7 @@ section#rightColumn {
 	float: right;
 	padding: 0.3em;
 	width: 45%;
-	height: 389px;
+	height: 482px;
 }
 
 section#rightColumn2 {
