@@ -63,6 +63,10 @@ section#leftColumn {
 	width: 50%;
 }
 
+ol li {
+	display:list-item;
+}
+
 section#leftColumn1 {
 	clear: left;
 	float: left;
@@ -70,8 +74,21 @@ section#leftColumn1 {
 	padding: 1.2em;
 	width: 50%;
 }
+
+ol li {
+	display:list-item;
+	
+}
 section#leftColumn img {
 	display: block;
+	width: 50%;
+}
+
+section#leftColumn4 {
+	clear: left;
+	float: left;
+	background-color:blue;
+	padding: 1.2em;
 	width: 50%;
 }
 
@@ -94,6 +111,19 @@ section#rightColumn2 {
 	height: 148px;
 }
 
+ol li {
+	display:list-item;
+}
+
+
+section#rightColumn3 {
+	clear:right;
+	background-color:pink;
+	float: right;
+	padding: 0.3em;
+	width: 45%;
+	height: 148px;
+}
 /* List Styles */
 
 
