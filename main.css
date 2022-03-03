@@ -27,12 +27,10 @@ color: white;
 
 /* Navigation Styles */	
 
-nav > ul {
-line-height:2em;
-list-style-type: none;
-padding-left:5px;
-background-color: white;
-}
+nav > ul {line-height:2em;
+	list-style-type: none;
+	padding-left:5px;
+	background-color: white;}
 
 /* Left Column Styles */
 section#leftColumn {
