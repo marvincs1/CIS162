@@ -84,14 +84,6 @@ section#leftColumn img {
 	width: 50%;
 }
 
-section#leftColumn4 {
-	clear: left;
-	float: left;
-	background-color:blue;
-	padding: 1.2em;
-	width: 50%;
-}
-
 /* Right Column Styles */
 section#rightColumn {
 	clear:right;
