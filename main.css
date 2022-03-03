@@ -3,7 +3,7 @@
 /* HTML and Body Styles */
 
 html {
-background-color: hsl(0deg, 0%, 2%);
+background-color: hsl(0deg, 5%, 44%);
 }
 
 body {
@@ -46,6 +46,7 @@ background-color: white;
 }
 
 /* Left Column Styles */
+
 section#leftColumn {
 	clear: left;
 	float: left;
@@ -54,7 +55,6 @@ section#leftColumn {
 }
 
 /* Right Column Styles */
-
 
 section#rightColumn {
 	float: right;
