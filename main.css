@@ -18,23 +18,12 @@ min-width: 640px;
 /* Heading Styles */
 
 header {
-background-color:green;
+background-color:#802a2a;
 }
 
 h1 {
 color: white;
 }
-
-
-
-/* Section and Blockquote Styles */
-
-Section {
-background-color: black;
-width: 100%;
-font-size: 1.2em;
-}
-
 
 /* Navigation Styles */	
 
@@ -46,20 +35,21 @@ background-color: white;
 }
 
 /* Left Column Styles */
-
 section#leftColumn {
 	clear: left;
 	float: left;
-	padding: 1em;
+	background-color:blue;
+	padding: 1.2em;
 	width: 55%;
 }
 
 /* Right Column Styles */
-
 section#rightColumn {
+	clear:right;
+	background-color:pink;
 	float: right;
-	padding: 1em;
-	width: 90%;
+	padding: 0.3em;
+	width: 40%;
 }
 
 /* List Styles */
