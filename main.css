@@ -107,15 +107,6 @@ ol li {
 	display:list-item;
 }
 
-
-section#rightColumn3 {
-	clear:right;
-	background-color:pink;
-	float: right;
-	padding: 0.3em;
-	width: 45%;
-	height: 148px;
-}
 /* List Styles */
 
 
