@@ -45,7 +45,21 @@ padding-left:5px;
 background-color: white;
 }
 
+/* Left Column Styles */
+section#leftColumn {
+	clear: left;
+	float: left;
+	padding: 1.5em;
+	width: 33%;
+}
 
+/* Right Column Styles */
+
+
+section#rightColumn {
+	float: left;
+	width: 67%;
+}
 
 /* List Styles */
 
