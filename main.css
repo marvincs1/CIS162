@@ -41,6 +41,11 @@ section#leftColumn {
 	width: 55%;
 }
 
+section#leftColumn img {
+	display: block;
+	width: 50%;
+}
+
 /* Right Column Styles */
 section#rightColumn {
 	clear:right;
