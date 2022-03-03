@@ -49,16 +49,17 @@ background-color: white;
 section#leftColumn {
 	clear: left;
 	float: left;
-	padding: 1.5em;
-	width: 33%;
+	padding: 1em;
+	width: 55%;
 }
 
 /* Right Column Styles */
 
 
 section#rightColumn {
-	float: left;
-	width: 67%;
+	float: right;
+	padding: 1em;
+	width: 90%;
 }
 
 /* List Styles */
