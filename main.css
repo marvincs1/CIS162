@@ -130,6 +130,7 @@ ol li {
 footer {
 background-color: #ffff91;
 	display: block;
+	color: red;
 }
 
 body > footer {
