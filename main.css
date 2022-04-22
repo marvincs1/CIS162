@@ -17,8 +17,9 @@ min-width: 640px;
 
 /* Heading Styles */
 
-header {
-background-color: #ffeb00;
+body > header > img {
+		display: block;
+		width: 100%;
 }
 
 h1 {
